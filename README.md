@@ -1,6 +1,6 @@
 # organw-uikit
 
-> organW UI Kit powered by Bootstrap 4 
+> organW UI Kit powered by [Bootstrap 4](https://getbootstrap.com)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=MIT)](http://opensource.org/licenses/MIT)
 
