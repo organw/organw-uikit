@@ -25,7 +25,7 @@
   },
   "homepage": "http://organw.github.io/organw-uikit/",
   "devDependencies": {
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.3",
     "grunt-contrib-cssmin": "^0.13.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-sass": "^2.0.0"
